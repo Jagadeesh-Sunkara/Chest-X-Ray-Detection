@@ -152,7 +152,7 @@ The successful deployment of our model will empower healthcare professionals to 
 
 The source code for this project is available on GitHub.
 
-- [COVID-19 and Pneumonia Detection Using Convolutional Neural Networks](https://github.com/19wh1a0419/COVID-19-AND-PNEUMONIA-DETECTION-USING-CON
+- [COVID-19 and Pneumonia Detection Using Convolutional Neural Networks](https://github.com/Jagadeesh-Sunkara/Chest-X-Ray-Detection/blob/main/Chest-X-ray%20Detection.ipynb)
 
 
 ## Steps to Run the Project:
