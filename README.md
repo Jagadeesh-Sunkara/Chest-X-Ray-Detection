@@ -1,9 +1,9 @@
 # COVID-19 AND PNEUMONIA DETECTION USING CONVOLUTIONAL NEURAL NETWORK
 
-![image](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-27266-9/MediaObjects/41598_2022_27266_Fig1_HTML.png) </br>
-
 ## Project Overview
 Our project is centered around developing and deploying a specialized Convolutional Neural Network (CNN) model for the precise detection of Pneumonia and COVID-19 from extensive chest X-ray datasets. Our aim is to create an efficient model that ensures accurate diagnosis, enabling prompt patient management and disease containment. By harnessing big data technologies like Spark, we endeavor to train a CNN on diverse datasets, establishing a dependable method for detecting COVID-19 with confidence.
+
+![image](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-27266-9/MediaObjects/41598_2022_27266_Fig1_HTML.png) </br>
 
 ## Approach:
 We utilize big data technologies like Spark to analyze vast amounts of imaging data. By training a Convolutional Neural Network (CNN) model on a comprehensive dataset of chest X-ray images, including COVID-19-positive and negative cases, Pneumonia cases, we aim to establish a reliable and efficient method for COVID-19 & Pneumonia detection.
